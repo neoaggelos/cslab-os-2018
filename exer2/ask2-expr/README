@@ -1,0 +1,7 @@
+1.  kathe mi termatiki diergasia ftiaxnei kai apo mia swlinwsi. ta read/write 
+    twn paidiwn einai asfalh (grafoume 4 bytes kathe fora, poly mikrotero 
+    tou PIPE_BUF ~ 4096)
+
+2.  oi diergasies boroun na trexoyn parallhla => h ekfrash apotimatai kata
+    meri me pio grigoro tropo (efoson to overhead tis dimiourgias processes
+    einai mikrotero)

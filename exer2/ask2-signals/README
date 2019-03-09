@@ -1,0 +1,9 @@
+1.  den xreiazetai na perimenoume, eimaste bebaia oti
+    ola exoun ginei opws prepei kai de basizomaste stin
+    tyxh
+
+2.  eksasfalizei oti ola ta paidia (kai ta paidia autwn anadromika)
+    einai etoima kai exoun kanei raise(SIGSTOP). diaforetika, an
+    arxizame na stelnoume SIGCONT xwris auto ton elegxo borei na ftaname
+    se deadlock (mia diergasia na min eixe prolabei na ftasei sto SIGSTOP
+    prin ths erthei to SIGCONT, opote na kollouse gia panta).

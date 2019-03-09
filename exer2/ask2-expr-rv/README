@@ -1,0 +1,3 @@
+limitations:
+* results only in [0,255]
+* limited error checking (exit value cant indicate error)
